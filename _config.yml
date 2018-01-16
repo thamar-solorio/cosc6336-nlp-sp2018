@@ -1,7 +1,7 @@
 title: Natural Language Processing (COSC 6336)
 description: Introduction to Natural Language Processing, University of Houston 2018-1
 sitename: COSC 6336 2018-1
-baseurl: '/cosc6336-NLP-Sp2018'
+baseurl: '/COSC6336-NLP-sp2018'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
