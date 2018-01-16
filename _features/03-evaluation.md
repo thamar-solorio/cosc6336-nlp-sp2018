@@ -4,6 +4,6 @@ name: Evaluation
 heading: Grading
 ---
 
-* Assignments: 45% (3-4 total)
-* Exams: 45% (2)
+* Assignments: 40% (3-4 total)
+* Exams: 40% (2 total)
 * Participation, exercises, and quizzes: 10%

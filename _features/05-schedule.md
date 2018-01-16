@@ -15,180 +15,165 @@ heading: Course schedule
 		<small>
 			<tr>
 			    <td>Jan 17</td>
-				<td>Introduction</td>
+				<td>Course Introduction</td>
+				<td>
+				    <a href= "lectures/lecture1.pdf">Lecture 1 slides</a><br>
+				</td>
+				<td>
+				    <a href="#">In-class Assignment 1</a>
+				</td>
+			</tr>
+			<tr>
+			    <td>Jan 24</td>
+				<td>Linguistics Background & Text Processing, <br>Edit Distance</td>
+				<td>
+				    <a href="#">Lecture 2 slides</a><br>
+				    Reading material:<br>
+				    [J&M] Ch. 2<br>
+				</td>
+				<td>
+				    <a href="#">In-class Assignment 2</a>
+				</td>
+			</tr>
+			<tr>
+			    <td>Jan 31</td>
+				<td>Language models & Classification <br>(NB and Logistic Regression)</td>
+				<td>
+				    <a href= "#">Lecture 3 slides</a><br>
+				    Reading material:<br>
+				    [J&M] Ch. 4, 6 & 7 (3rd ed.)
+				</td>
+				<td></td>
+			</tr>
+			<tr>
+			    <td>Feb 7</td>
+				<td>HMMs and POS tagging</td>
+				<td>
+				    <a href= "#">Lecture 4 slides</a><br>
+				    Reading material:<br>
+				    [J&M] Ch. 9 and 10 (3rd ed.)
+				</td>
+				<td>
+				    <a href="#">Assignment 1</a><br>
+				    Due date: Feb 28
+				</td>
+			</tr>
+			<tr>
+			    <td>Feb 14</td>
+				<td>Vector Semantics and word embeddings</td>
+				<td>
+				    <a href= "#">Lecture 5 slides</a><br>
+				    Reading material:<br>
+				    [J&M] Ch. 15 and 16 (3rd ed.)
+				</td>
+				<td>
+				    <a href="#">In-class Assignment 3</a>
+				</td>
+			</tr>
+			<tr>
+			    <td>Feb 21</td>
+				<td>Word Senses and HMMs</td>
+				<td>
+				    <a href= "#">Lecture 6 slides</a><br>
+				    Reading material:<br>
+				    [J&M] Ch. 18 and 8 (3rd ed.)
+				</td>
+				<td></td>
+			</tr>
+			<tr>
+			    <td>Feb 28</td>
+				<td>Formal Grammars and Syntactic Parsing</td>
+				<td>
+				    <a href= "#">Lecture 7 slides</a><br>
+				    Reading material:<br>
+				    [J&M] Ch. 12 and 13
+				</td>
+				<td>
+				    <a href="#">Assignment 2</a><br>
+				    Due date: Mar 4
+				</td>
+			</tr>
+			<tr>
+			    <td>Mar 7</td>
+				<td>Midterm</td>
 				<td></td>
 				<td></td>
 			</tr>
-			
-			
 			<tr>
-			<td>Sep 15th</td>
-				<td> Approximating semantics <br>
-				Neural embedding models</td>
+			    <td>Mar 14</td>
+				<td>Spring Break</td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+			    <td>Mar 21</td>
+				<td>Statistical Parsing and Dependency Parsing</td>
 				<td>
-				<a href= "lecture2_slides.pdf">Lecture 2 slides</a><br>
-				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/word2vec_demo.ipynb">Word2vec Demo notebook</a>
-				Reading material:<br>
-				[JM2017] Chap 15, 16 <br>
-				[R2014], [MSCCD13], [AMLS17]
+				    <a href= "#">Lecture 8 slides</a><br>
+				    Reading material:<br>
+				    [J&M] Ch. 13 and 14 (3rd ed.)
+				</td>
+				<td></td>
+			</tr>
+			<tr>
+			    <td>Mar 28</td>
+				<td>Information Extraction (IE)</td>
+				<td>
+				    <a href= "#">Lecture 9 slides</a><br>
+				    Reading material:<br>
+				    [J&M] Ch. 21 (3rd ed.)
 				</td>
 				<td>
+				    <a href="#">In-class Assignment 4</a>
 				</td>
 			</tr>
-                        <tr>
-			<td>Sep 22nd</td>
-				<td>ML background<br>
-				Neural network training</td>
+			<tr>
+			    <td>Apr 4</td>
+				<td>Question Answering (QA)</td>
 				<td>
-				<a href= "lecture3_slides.pdf">Lecture 3 slides</a><br>
-				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/perceptron-training.ipynb">Perceptron Training Notebook</a><br>
-				Reading material:<br>
-				[GBC2016] Chap 5, 6
+				    <a href= "#">Lecture 10 slides</a><br>
+				    Reading material:<br>
+				    [J&M] Ch. 28 (3rd ed.)
 				</td>
 				<td>
-				<a href="assign1.pdf"> Assignment 1 </a><br>                          
-			     <a href="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/assign1-nn-word2vec.ipynb"> Assign 1 Notebook </a><br> 
-				Due date: Oct. 13th
+				    <a href="#">Assignment 3</a><br>
+				    Due date: Apr 25
 				</td>
 			</tr>
-
 			<tr>
-			<td>Sep 29th</td>
-				<td>Deep learning frameworks</td>
+			    <td>Apr 11</td>
+				<td>Dialog systems</td>
 				<td>
-				<a href= "lecture4_slides.pdf">Lecture 4 slides</a><br>
-				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/TensorFlow_handout.ipynb">TensorFlow Handout Notebook</a><br>
-				<a href= "https://www.dropbox.com/s/7fqe3m4brznjks5/FastGuide.pdf?dl=0">Azure VM Handout</a><br>
-				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Keras_handout.ipynb">Keras Handout Notebook</a><br>
-				Reading material:<br>
-				Check tools section in <a href= "#/features/04-resources">Resources</a><br>
+				    <a href= "#">Lecture 11 slides</a><br>
+				    Reading material:<br>
+				    [J&M] Ch. 29 (3rd ed.)
 				</td>
-				<td>
-			     <a href="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/In-class-assign-2.ipynb">In-class Assignment 2 Notebook </a><br> 
-				</td>
+				<td></td>
 			</tr>
-
 			<tr>
-			<td>Oct 6th</td>
-				<td>Text classification <br>
-                    Convolutional neural networks
-				</td>
+			    <td>Apr 18</td>
+				<td>Semantic Role Labelling</td>
 				<td>
-				<a href= "lecture5_slides.pdf">Lecture 5 slides</a><br>
-				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-CNN-sentence-classification.ipynb">CNN Sentence Classification Handout Notebook</a><br>
-				Reading material:<br>
-				[GBC2016] Chap 9 <br>
-				[JM2017] Chap 6<br>		
-	                        [DNEL17], [YYDHSH16], [K2014],[SSGRMS17]
+				    <a href= "#">Lecture 12 slides</a><br>
+				    Reading material:<br>
+				    [J&M] Ch. 22 (3rd ed.)
 				</td>
-				<td>
-			     <a href="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/In-class-assign-3.ipynb">In-class Assignment 3 Notebook </a><br> 
-				</td>
+				<td></td>
 			</tr>
-
 			<tr>
-			<td>Oct 13th</td>
-				<td>Language models <br>
-				Recurrent Neural Networks
-				</td>
+			    <td>Apr 25</td>
+				<td>Other NLP tasks</td>
 				<td>
-				<a href= "lecture6_slides.pdf">Lecture 6 slides</a><br>
-				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">LSTM Language Model Handout Notebook</a><br>
-				Reading material:<br>
-				[GBC2016] Chap 10<br>
-				[JM2017] Chap 4, 8<br>		
+				    <a href= "#">Lecture 13 slides</a><br>
 				</td>
-				<td>
-				<a href = "dl-tau-assign2.pdf">Assignment 2</a><br>
-				Due date: Nov 9th 
-				</td>
+				<td></td>
 			</tr>
-
 			<tr>
-			<td>Oct 20th</td>
-				<td>Cancelled due to Mid-Semester Bash</td>
-				<td>
-				</td>
-				<td>
-				</td>
+			    <td>May 9</td>
+				<td>Final exam</td>
+				<td></td>
+				<td></td>
 			</tr>
-		
-			<tr>
-			<td>Oct 27th</td>
-				<td>Midterm Exam</td>
-				<td>
-				</td>
-				<td>
-				</td>
-			</tr>
-
-			<tr>
-			<td>Nov 3rd</td>
-				<td>Machine Translation<br> 
-				Conditional language model <br>
-				Neural Attention models
-				</td>
-				<td>
-				<a href= "lecture7_slides.pdf">Lecture 7 slides</a><br>
-				<a href= "lecture7_seq2seq_slides.pdf">Seq2Seq models slides</a><br>
-			    <a href="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-seq2seq-translator.ipynb">Seq2Seq Translator Handout Notebook </a><br> 
-				Reading material:<br>
-				[GBC2016] Chap 10<br>
-				[JM2008] Chap 25<br>	
-				Useful Links:<br>  
-				<a href="https://github.com/llSourcell/How_to_make_a_text_summarizer">How to make a text summarizer </a><br>
-				</td>
-				<td>
-				</td>
-			</tr>
-
-			<tr>
-			<td>Nov 10th</td>
-				<td>
-				  Paper presentations
-				</td>
-				<td>
-				</td>
-				<td>
-				  Final project proposal<br>
-				  Due date: Nov 10th<br>
-				<a href= "dl-tau-extra.pdf">Extra Credit Assignment</a><br> 
-				Due date: Dec. 1st
-				</td>
-			</tr>
-
-
-			<tr>
-			<td>Nov 17th</td>
-				<td>Paper Presentations</td>
-				<td>
-				</td>
-				<td>
-				</td>
-			</tr>
-
-			<tr>
-			<td>Dec 1st</td>
-				<td>Multimodal learning</td>
-				<td>
-				</td>
-				<td>
-				</td>
-			</tr>			
-
-			<tr>
-			<td><s>Dec 8th</s><br>
-				Dec 11th</td>
-				<td>Final project presentations<br>
-				Poster madness (5:00pm - 8:00pm)
-				</td>
-				<td>
-				</td>
-				<td>Final project report <br>
-				Due date: Dec 12th
-				</td>
-			</tr>
-
 		</small>
 	</tbody>
 </table>

@@ -16,7 +16,7 @@ Office hours: F 5:00-6:00pm, or by appointment, in PGH 584.
 [Gustavo Aguilar](www2.cs.uh.edu/~gaguilar/)  
 *gaguilaralas@uh.edu*
 
-Office hours: TTH- 3:00-4:00pm in PGH 584.
+Office hours: TTH- 3:00-4:00pm in PGH 550A.
 
 ### Course Syllabus
 [Syllabus](syllabus.pdf)

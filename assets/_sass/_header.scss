@@ -2,7 +2,7 @@ header {
   display: block;
   width: 100%;
   text-align: center;
-  background: url('/cosc6336-NLP-Sp18/background.jpg') no-repeat center center scroll;
+  background: url('/cosc6336-NLP-Sp2018/images/background6.jpg') no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -12,12 +12,12 @@ header {
 
   h1 {
     font-size: 64px;
-    background: rgba(255,255,255,0.8);
+    background: rgba(255,255,255,0.5);
   }
 
   h2 {
     font-size: 32px;
-    background: rgba(255,255,255,0.8);
+    background: rgba(255,255,255,0.5);
   }
 
   @media(max-width:1200px) {
