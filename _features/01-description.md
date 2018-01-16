@@ -13,7 +13,7 @@ Office hours: F 5:00-6:00pm, or by appointment, in PGH 584.
 
 ### Teaching Assistant
 
-[Gustavo Aguilar](www2.cs.uh.edu/~gaguilar/)  
+[Gustavo Aguilar](http://www.cs.uh.edu/~gaguilar/)  
 *gaguilaralas@uh.edu*
 
 Office hours: TTH- 3:00-4:00pm in PGH 550A.
