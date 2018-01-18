@@ -29,7 +29,7 @@ heading: Course schedule
 				<td>
 				    <a href="#">Lecture 2 slides</a><br>
 				    Reading material:<br>
-				    [J&M] Ch. 2<br>
+				    <a href= "http://web.stanford.edu/~jurafsky/slp3/2.pdf">[J&M] Ch. 2 (3rd. ed.)</a><br>
 				</td>
 				<td>
 				    <a href="#">In-class Assignment 2</a>
