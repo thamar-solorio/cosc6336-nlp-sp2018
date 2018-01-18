@@ -7,14 +7,14 @@ heading: Course schedule
 <table class="table table-condensed">
 	<tbody>
 		<tr>
-			<th>Date</th>
+			<th>Week</th>
 			<th>Topic</th>
 			<th>Material</th>
 			<th>Assignments</th>
 		</tr>
 		<small>
 			<tr>
-			    <td>Jan 17</td>
+			    <td>1</td>
 				<td>Course Introduction</td>
 				<td>
 				    <a href= "lectures/lecture1.pdf">Lecture 1 slides</a><br>
@@ -24,7 +24,7 @@ heading: Course schedule
 				</td>
 			</tr>
 			<tr>
-			    <td>Jan 24</td>
+			    <td>2</td>
 				<td>Linguistics Background & Text Processing, <br>Edit Distance</td>
 				<td>
 				    <a href="#">Lecture 2 slides</a><br>
@@ -36,7 +36,7 @@ heading: Course schedule
 				</td>
 			</tr>
 			<tr>
-			    <td>Jan 31</td>
+			    <td>3</td>
 				<td>Language models & Classification <br>(NB and Logistic Regression)</td>
 				<td>
 				    <a href= "#">Lecture 3 slides</a><br>
@@ -46,7 +46,7 @@ heading: Course schedule
 				<td></td>
 			</tr>
 			<tr>
-			    <td>Feb 7</td>
+			    <td>4</td>
 				<td>HMMs and POS tagging</td>
 				<td>
 				    <a href= "#">Lecture 4 slides</a><br>
@@ -59,7 +59,7 @@ heading: Course schedule
 				</td>
 			</tr>
 			<tr>
-			    <td>Feb 14</td>
+			    <td>5/td>
 				<td>Vector Semantics and word embeddings</td>
 				<td>
 				    <a href= "#">Lecture 5 slides</a><br>
@@ -71,7 +71,7 @@ heading: Course schedule
 				</td>
 			</tr>
 			<tr>
-			    <td>Feb 21</td>
+			    <td>6</td>
 				<td>Word Senses and HMMs</td>
 				<td>
 				    <a href= "#">Lecture 6 slides</a><br>
@@ -81,7 +81,7 @@ heading: Course schedule
 				<td></td>
 			</tr>
 			<tr>
-			    <td>Feb 28</td>
+			    <td>7</td>
 				<td>Formal Grammars and Syntactic Parsing</td>
 				<td>
 				    <a href= "#">Lecture 7 slides</a><br>
@@ -94,7 +94,7 @@ heading: Course schedule
 				</td>
 			</tr>
 			<tr>
-			    <td>Mar 7</td>
+			    <td>8</td>
 				<td>Midterm</td>
 				<td></td>
 				<td></td>
@@ -106,7 +106,7 @@ heading: Course schedule
 				<td></td>
 			</tr>
 			<tr>
-			    <td>Mar 21</td>
+			    <td>9</td>
 				<td>Statistical Parsing and Dependency Parsing</td>
 				<td>
 				    <a href= "#">Lecture 8 slides</a><br>
@@ -116,7 +116,7 @@ heading: Course schedule
 				<td></td>
 			</tr>
 			<tr>
-			    <td>Mar 28</td>
+			    <td>10</td>
 				<td>Information Extraction (IE)</td>
 				<td>
 				    <a href= "#">Lecture 9 slides</a><br>
@@ -128,7 +128,7 @@ heading: Course schedule
 				</td>
 			</tr>
 			<tr>
-			    <td>Apr 4</td>
+			    <td>11</td>
 				<td>Question Answering (QA)</td>
 				<td>
 				    <a href= "#">Lecture 10 slides</a><br>
@@ -141,7 +141,7 @@ heading: Course schedule
 				</td>
 			</tr>
 			<tr>
-			    <td>Apr 11</td>
+			    <td>12</td>
 				<td>Dialog systems</td>
 				<td>
 				    <a href= "#">Lecture 11 slides</a><br>
@@ -151,7 +151,7 @@ heading: Course schedule
 				<td></td>
 			</tr>
 			<tr>
-			    <td>Apr 18</td>
+			    <td>13</td>
 				<td>Semantic Role Labelling</td>
 				<td>
 				    <a href= "#">Lecture 12 slides</a><br>
@@ -161,7 +161,7 @@ heading: Course schedule
 				<td></td>
 			</tr>
 			<tr>
-			    <td>Apr 25</td>
+			    <td>14</td>
 				<td>Other NLP tasks</td>
 				<td>
 				    <a href= "#">Lecture 13 slides</a><br>
@@ -169,7 +169,7 @@ heading: Course schedule
 				<td></td>
 			</tr>
 			<tr>
-			    <td>May 9</td>
+			    <td>15</td>
 				<td>Final exam</td>
 				<td></td>
 				<td></td>
