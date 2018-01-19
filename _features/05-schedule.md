@@ -59,7 +59,7 @@ heading: Course schedule
 				</td>
 			</tr>
 			<tr>
-			    <td>5/td>
+			    <td>5</td>
 				<td>Vector Semantics and word embeddings</td>
 				<td>
 				    <a href= "#">Lecture 5 slides</a><br>
