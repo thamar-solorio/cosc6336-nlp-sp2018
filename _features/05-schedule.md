@@ -20,7 +20,7 @@ heading: Course schedule
 				    <a href= "lectures/lecture1.pdf">Lecture 1 slides</a><br>
 				</td>
 				<td>
-				    <a href="hw0.pdf">In-class Assignment 1</a>
+				    <a href="inclass_assignments/hw0.pdf">In-class Assignment 1</a>
 				</td>
 			</tr>
 			<tr>
