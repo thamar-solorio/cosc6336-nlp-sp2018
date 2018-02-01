@@ -27,7 +27,7 @@ heading: Course schedule
 			    <td>2</td>
 				<td>Linguistics Background & Text Processing, <br>Edit Distance</td>
 				<td>
-				    <a href="#">Lecture 2 slides</a><br>
+				    <a href= "lectures/lecture2-text-processing.pdf">Lecture 2 slides</a><br>
 				    Reading material:<br>
 				    <a href= "http://web.stanford.edu/~jurafsky/slp3/2.pdf">[J&M] Ch. 2 (3rd. ed.)</a><br>
 				</td>
