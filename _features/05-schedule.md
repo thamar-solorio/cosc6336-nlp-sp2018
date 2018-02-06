@@ -32,7 +32,7 @@ heading: Course schedule
 				    <a href= "http://web.stanford.edu/~jurafsky/slp3/2.pdf">[J&M] Ch. 2 (3rd. ed.)</a><br>
 				</td>
 				<td>
-				    <a href="#">In-class Assignment 2</a>
+				    <a href="https://github.com/thamar-solorio/cosc6336-nlp-sp2018/blob/master/inclass_assignments/in-class-assignment1.ipynb">In-class Assignment 2</a>
 				</td>
 			</tr>
 			<tr>
