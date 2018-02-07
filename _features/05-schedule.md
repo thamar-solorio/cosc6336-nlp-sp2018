@@ -56,7 +56,7 @@ heading: Course schedule
 				    [J&M] Ch. 9 and 10 (3rd ed.)
 				</td>
 				<td>
-				    <a href="#">Assignment 1</a><br>
+				    <a href="#">Homework 1</a><br>
 				    Due date: Feb 28
 				</td>
 			</tr>
@@ -91,7 +91,7 @@ heading: Course schedule
 				    [J&M] Ch. 12 and 13
 				</td>
 				<td>
-				    <a href="#">Assignment 2</a><br>
+				    <a href="#">Homework 2</a><br>
 				    Due date: Mar 4
 				</td>
 			</tr>
@@ -138,7 +138,7 @@ heading: Course schedule
 				    [J&M] Ch. 28 (3rd ed.)
 				</td>
 				<td>
-				    <a href="#">Assignment 3</a><br>
+				    <a href="#">Homework 3</a><br>
 				    Due date: Apr 25
 				</td>
 			</tr>
