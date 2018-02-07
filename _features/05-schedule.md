@@ -20,7 +20,7 @@ heading: Course schedule
 				    <a href= "lectures/lecture1.pdf">Lecture 1 slides</a><br>
 				</td>
 				<td>
-				    <a href="inclass_assignments/hw0.pdf">In-class Assignment 1</a>
+				    <a href="inclass_assignments/hw0.pdf">In-class Assignment 0</a>
 				</td>
 			</tr>
 			<tr>
@@ -32,7 +32,7 @@ heading: Course schedule
 				    <a href= "http://web.stanford.edu/~jurafsky/slp3/2.pdf">[J&M] Ch. 2 (3rd. ed.)</a><br>
 				</td>
 				<td>
-				    <a href="https://github.com/thamar-solorio/cosc6336-nlp-sp2018/blob/master/inclass_assignments/in-class-assignment1.ipynb">In-class Assignment 2</a>
+				    <a href="https://github.com/thamar-solorio/cosc6336-nlp-sp2018/blob/master/inclass_assignments/in-class-assignment1.ipynb">In-class Assignment 1</a>
 				</td>
 			</tr>
 			<tr>
@@ -43,7 +43,9 @@ heading: Course schedule
 				    Reading material:<br>
 				    [J&M] Ch. 4, 6 & 7 (3rd ed.)
 				</td>
-				<td></td>
+				<td>
+				    <a href="#">In-class Assignment 2</a>
+				</td>
 			</tr>
 			<tr>
 			    <td>4</td>
