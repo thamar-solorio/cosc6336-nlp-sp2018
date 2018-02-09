@@ -44,7 +44,7 @@ heading: Course schedule
 				    [J&M] Ch. 4, 6 & 7 (3rd ed.)
 				</td>
 				<td>
-				    <a href="#">In-class Assignment 2</a>
+				    <a href="https://github.com/thamar-solorio/cosc6336-nlp-sp2018/blob/master/inclass_assignments/in-class-assignment2.ipynb">In-class Assignment 2</a>
 				</td>
 			</tr>
 			<tr>
