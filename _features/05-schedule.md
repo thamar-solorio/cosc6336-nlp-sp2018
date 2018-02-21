@@ -56,7 +56,7 @@ heading: Course schedule
 				    [J&M] Ch. 9 and 10 (3rd ed.)
 				</td>
 				<td>
-				    <a href="#">Homework 1</a><br>
+				    <a href="homework/hw1/hw1.pdf">Homework 1</a><br>
 				    Due date: Feb 28
 				</td>
 			</tr>
