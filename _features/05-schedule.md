@@ -39,8 +39,8 @@ heading: Course schedule
 			    <td>3</td>
 				<td>Language models & Classification <br>(NB and Logistic Regression)</td>
 				<td>
-				    <a href="lectures/lecture3-language-models.pdf">Lecture 3.2 slides</a><br>
-				    <a href="lectures/lecture4-text-classification.pdf">Lecture 3.1 slides</a><br>
+				    <a href="lectures/lecture3-language-models.pdf">Lecture 3.1 slides</a><br>
+				    <a href="lectures/lecture4-text-classification.pdf">Lecture 3.2 slides</a><br>
 				    Reading material:<br>
 				    [J&M] Ch. 4, 6 & 7 (3rd ed.)
 				</td>
