@@ -52,7 +52,9 @@ heading: Course schedule
 			    <td>4</td>
 				<td>HMMs and POS tagging</td>
 				<td>
-				    <a href="lectures/lecture5-hmms1.pdf">Lecture 4 slides</a><br>
+				    <a href="lectures/lecture5-hmms1.pdf">Lecture 4.1 HMM slides</a><br>
+				    <a href="lectures/lecture6-hmms2.pdf">Lecture 4.2 HMM slides</a><br>
+				    <a href="lectures/lecture7-pos-tagging.pdf">Lecture 4.3 POS slides</a><br>
 				    Reading material:<br>
 				    [J&M] Ch. 9 and 10 (3rd ed.)
 				</td>
