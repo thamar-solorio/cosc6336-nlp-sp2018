@@ -72,17 +72,19 @@ heading: Course schedule
 				    [J&M] Ch. 15 and 16 (3rd ed.)
 				</td>
 				<td>
-				    <a href="#">In-class Assignment 3</a>
+				    <a href="#">Demo</a>
 				</td>
 			</tr>
 			<tr>
+			    <td>Spring Break</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
 			    <td>6</td>
-				<td>Word Senses and HMMs</td>
-				<td>
-				    <a href= "#">Lecture 6 slides</a><br>
-				    Reading material:<br>
-				    [J&M] Ch. 18 and 8 (3rd ed.)
-				</td>
+				<td>Midterm</td>
+				<td></td>
 				<td></td>
 			</tr>
 			<tr>
@@ -95,23 +97,11 @@ heading: Course schedule
 				</td>
 				<td>
 				    <a href="#">Homework 2</a><br>
-				    Due date: Mar 4
+				    Due date: TBD
 				</td>
 			</tr>
 			<tr>
 			    <td>8</td>
-				<td>Midterm</td>
-				<td></td>
-				<td></td>
-			</tr>
-			<tr>
-			    <td>Mar 14</td>
-				<td>Spring Break</td>
-				<td></td>
-				<td></td>
-			</tr>
-			<tr>
-			    <td>9</td>
 				<td>Statistical Parsing and Dependency Parsing</td>
 				<td>
 				    <a href= "#">Lecture 8 slides</a><br>
@@ -121,7 +111,7 @@ heading: Course schedule
 				<td></td>
 			</tr>
 			<tr>
-			    <td>10</td>
+			    <td>9</td>
 				<td>Information Extraction (IE)</td>
 				<td>
 				    <a href= "#">Lecture 9 slides</a><br>
@@ -133,7 +123,7 @@ heading: Course schedule
 				</td>
 			</tr>
 			<tr>
-			    <td>11</td>
+			    <td>10</td>
 				<td>Question Answering (QA)</td>
 				<td>
 				    <a href= "#">Lecture 10 slides</a><br>
@@ -142,11 +132,11 @@ heading: Course schedule
 				</td>
 				<td>
 				    <a href="#">Homework 3</a><br>
-				    Due date: Apr 25
+				    Due date: TBD
 				</td>
 			</tr>
 			<tr>
-			    <td>12</td>
+			    <td>11</td>
 				<td>Dialog systems</td>
 				<td>
 				    <a href= "#">Lecture 11 slides</a><br>
@@ -156,7 +146,7 @@ heading: Course schedule
 				<td></td>
 			</tr>
 			<tr>
-			    <td>13</td>
+			    <td>12</td>
 				<td>Semantic Role Labelling</td>
 				<td>
 				    <a href= "#">Lecture 12 slides</a><br>
@@ -166,7 +156,7 @@ heading: Course schedule
 				<td></td>
 			</tr>
 			<tr>
-			    <td>14</td>
+			    <td>13</td>
 				<td>Other NLP tasks</td>
 				<td>
 				    <a href= "#">Lecture 13 slides</a><br>
@@ -174,7 +164,7 @@ heading: Course schedule
 				<td></td>
 			</tr>
 			<tr>
-			    <td>15</td>
+			    <td>14</td>
 				<td>Final exam</td>
 				<td></td>
 				<td></td>
