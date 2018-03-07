@@ -86,7 +86,7 @@ heading: Course schedule
 			    <td>6</td>
 				<td>Midterm</td>
 				<td></td>
-				<td></td>
+				<td>March 21st</td>
 			</tr>
 			<tr>
 			    <td>7</td>
