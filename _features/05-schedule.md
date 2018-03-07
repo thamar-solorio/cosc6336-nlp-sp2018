@@ -60,7 +60,7 @@ heading: Course schedule
 				</td>
 				<td>
 				    <a href="homework/hw1/hw1.pdf">Homework 1</a><br>
-				    Due date: Mar 7th & 9th
+				    Due date: Mar 14th & 16th
 				</td>
 			</tr>
 			<tr>
