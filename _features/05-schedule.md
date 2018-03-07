@@ -67,12 +67,13 @@ heading: Course schedule
 			    <td>5</td>
 				<td>Vector Semantics and word embeddings</td>
 				<td>
-				    <a href= "#">Lecture 5 slides</a><br>
+				    <a href= "lectures/lecture8-word-level-semantic-representation.pdf">Lecture 5 slides</a><br>
 				    Reading material:<br>
 				    [J&M] Ch. 15 and 16 (3rd ed.)
 				</td>
 				<td>
-				    <a href="#">Demo</a>
+				    <a href="https://github.com/thamar-solorio/cosc6336-nlp-sp2018/blob/master/demos/word2vec_demo.ipynb">Word2vec Demo</a><br>
+				    <a href="https://github.com/thamar-solorio/cosc6336-nlp-sp2018/blob/master/demos/glove_demo.ipynb">Glove Demo</a>
 				</td>
 			</tr>
 			<tr>
