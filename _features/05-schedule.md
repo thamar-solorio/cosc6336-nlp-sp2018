@@ -119,7 +119,7 @@ heading: Course schedule
 				    [J&M] Ch. 21 (3rd ed.)
 				</td>
 				<td>
-				    <a href="#">In-class Assignment 4</a>
+				    <a href="#">In-class Assignment 3</a>
 				</td>
 			</tr>
 			<tr>
