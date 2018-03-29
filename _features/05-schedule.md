@@ -67,7 +67,7 @@ heading: Course schedule
 			    <td>5</td>
 				<td>Vector Semantics and word embeddings</td>
 				<td>
-				    <a href= "lectures/lecture8-word-level-semantic-representation.pdf">Lecture 5 slides</a><br>
+				    <a href="lectures/lecture8-word-level-semantic-representation.pdf">Lecture 5 slides</a><br>
 				    Reading material:<br>
 				    [J&M] Ch. 15 and 16 (3rd ed.)
 				</td>
@@ -92,7 +92,9 @@ heading: Course schedule
 			    <td>7</td>
 				<td>Formal Grammars and Syntactic Parsing</td>
 				<td>
-				    <a href= "#">Lecture 7 slides</a><br>
+				    <a href="lectures/lecture9.1-formal_grammars.pdf">Lecture 7.1 Formal Grammars slides</a><br>
+				    <a href="lectures/lecture9.2-parsing1.pdf">Lecture 7.2 Syntactic Parsing slides</a><br>
+				    <a href="lectures/lecture9.3-cky_example.pdf">Lecture 7.3 CKY example</a><br>
 				    Reading material:<br>
 				    [J&M] Ch. 12 and 13
 				</td>
@@ -105,7 +107,7 @@ heading: Course schedule
 			    <td>8</td>
 				<td>Statistical Parsing and Dependency Parsing</td>
 				<td>
-				    <a href= "#">Lecture 8 slides</a><br>
+				    <a href="lectures/lecture10-stats-parsing.pdf">Lecture 8 Statistical Parsing slides</a><br>
 				    Reading material:<br>
 				    [J&M] Ch. 13 and 14 (3rd ed.)
 				</td>
