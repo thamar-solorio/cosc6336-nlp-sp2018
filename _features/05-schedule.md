@@ -99,8 +99,8 @@ heading: Course schedule
 				    [J&M] Ch. 12 and 13
 				</td>
 				<td>
-				    <a href="#">Homework 2</a><br>
-				    Due date: TBD
+				    <a href="homework/hw2/hw2.pdf">Homework 2</a><br>
+				    Due date: April 11th, 25th & May 2nd
 				</td>
 			</tr>
 			<tr>
