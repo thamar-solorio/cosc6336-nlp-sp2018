@@ -117,15 +117,15 @@ heading: Course schedule
 			    <td>9</td>
 				<td>Information Extraction (IE)</td>
 				<td>
-				    <a href= "#">Lecture 9 slides</a><br>
+				    <a href="lectures/lecture11-information-extraction.pdf">Lecture 9 Information Extraction</a><br>
 				    Reading material:<br>
 				    [J&M] Ch. 21 (3rd ed.)
 				</td>
 				<td>
-				    <a href="#">In-class Assignment 3</a>
+				    <!--<a href="#">In-class Assignment 3</a>-->
 				</td>
 			</tr>
-			<tr>
+			<!--<tr>
 			    <td>10</td>
 				<td>Question Answering (QA)</td>
 				<td>
@@ -137,18 +137,18 @@ heading: Course schedule
 				    <a href="#">Homework 3</a><br>
 				    Due date: TBD
 				</td>
-			</tr>
+			</tr> -->
 			<tr>
-			    <td>11</td>
-				<td>Dialog systems</td>
+			    <td>10</td>
+				<td>Dialogue systems</td>
 				<td>
-				    <a href= "#">Lecture 11 slides</a><br>
+				    <a href= "lectures/lecture12-dialogue-systems.pdf">Lecture 10 Dialogue Systems</a><br>
 				    Reading material:<br>
 				    [J&M] Ch. 29 (3rd ed.)
 				</td>
 				<td></td>
 			</tr>
-			<tr>
+			<!--<tr>
 			    <td>12</td>
 				<td>Semantic Role Labelling</td>
 				<td>
@@ -165,9 +165,9 @@ heading: Course schedule
 				    <a href= "#">Lecture 13 slides</a><br>
 				</td>
 				<td></td>
-			</tr>
+			</tr>-->
 			<tr>
-			    <td>14</td>
+			    <td>11</td>
 				<td>Final exam</td>
 				<td></td>
 				<td></td>
